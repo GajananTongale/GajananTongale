@@ -46,7 +46,7 @@
 
 ### 🏸 Badminton - My Stress Buster
 <p align="center">
-  <img src="[https://drive.google.com/uc?export=view&id=1fwOxXXE8NBOHGNXdFjZF2tYtNoK9wMuS](https://drive.google.com/file/d/1KaS5fnyK9P58j_pqEAQ1bsXR3KJtzQet/view?usp=sharing)" alt="Badminton Image" width="300"/>
+  <img src="https://drive.google.com/uc?export=view&id=1KaS5fnyK9P58j_pqEAQ1bsXR3KJtzQet" alt="Badminton Image" width="300"/>
 </p>
 
 ---

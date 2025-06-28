@@ -1,3 +1,8 @@
+<!-- 👨‍💻 Profile Aesthetic Banner -->
+<p align="center">
+  <img src="https://drive.google.com/uc?export=view&id=1rvMbR4e1lWHI6PnKa2X3gRQDfzZYzTNL" alt="Profile Banner" width="300"/>
+</p>
+
 <!-- Typing Banner -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=8E44AD&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Gajanan+Rajendra+Tongale!;ML+%7C+DL+%7C+Generative+AI+Enthusiast;Welcome+to+my+GitHub+profile!+%F0%9F%91%8B" alt="Typing SVG" />
@@ -39,11 +44,6 @@
 ### 🏸 Badminton - My Stress Buster
 <p align="center">
   <img src="https://drive.google.com/uc?export=view&id=1fwOxXXE8NBOHGNXdFjZF2tYtNoK9wMuS" alt="Badminton Image" width="300"/>
-</p>
-
-### 👨‍💻 Coder Vibes
-<p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1rvMbR4e1lWHI6PnKa2X3gRQDfzZYzTNL" alt="Coding Profile" width="300"/>
 </p>
 
 ---
